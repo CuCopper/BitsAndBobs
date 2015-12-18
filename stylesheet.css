@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+
+#needTitle{
+    color: orange;
+}
+
+.needed {
+    color: orange;
+    font-size: 20px;
+}
